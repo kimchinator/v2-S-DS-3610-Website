@@ -1,0 +1,9 @@
+---
+title: "Dillon's Website for 3610"
+---
+
+![](img/schedule_grid_faceted.png){width=100%}
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
